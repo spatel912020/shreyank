@@ -2,7 +2,7 @@
   "name": "shreyank",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://spatel912020.github.io/shreyank",
+  "homepage": "https://spatel912020.github.io/shreyank",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
