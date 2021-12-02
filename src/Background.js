@@ -3,7 +3,6 @@ import './Background.css';
 function Background() {
   return (
     <div className="background">
-      <img className = "background_img" src="" />
       <div className = "background_header">
         <h1 className = "background_header_text">Shreyank Patel</h1>
         <h1 className = "background_subheader_text" >Address: 112 Wolf Creek Way, Oak Ridge, TN</h1>
