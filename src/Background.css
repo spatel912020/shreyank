@@ -1,0 +1,22 @@
+.background {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5px;
+}
+
+.background_img{
+  width: 20%;
+  border-radius: 20%;
+}
+
+.background_header_text{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  padding: 10px; 
+}
+
+.background_subheader_text{
+  text-align: left;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: medium;
+  padding: 10px; 
+}
