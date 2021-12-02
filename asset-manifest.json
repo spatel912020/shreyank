@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shreyank_patel.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/shreyank_patel.github.io/static/js/main.56eccaca.chunk.js",
+    "main.js.map": "/shreyank_patel.github.io/static/js/main.56eccaca.chunk.js.map",
+    "runtime-main.js": "/shreyank_patel.github.io/static/js/runtime-main.979cc905.js",
+    "runtime-main.js.map": "/shreyank_patel.github.io/static/js/runtime-main.979cc905.js.map",
+    "static/js/2.7ab70ed7.chunk.js": "/shreyank_patel.github.io/static/js/2.7ab70ed7.chunk.js",
+    "static/js/2.7ab70ed7.chunk.js.map": "/shreyank_patel.github.io/static/js/2.7ab70ed7.chunk.js.map",
+    "index.html": "/shreyank_patel.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/shreyank_patel.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7ab70ed7.chunk.js.LICENSE.txt": "/shreyank_patel.github.io/static/js/2.7ab70ed7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.979cc905.js",
+    "static/js/2.7ab70ed7.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.56eccaca.chunk.js"
+  ]
+}
