@@ -3,8 +3,8 @@ import './Skills.css';
 function Skills() {
   return (
     <div className="skills_div">
-      <div>
         <h3 className = "skills_header_text">Skills</h3>
+        <div className="flex_grow"></div>
         <ul className = "skills">
           <li className = "skills_subheader_text">Python</li>
           <li className = "skills_subheader_text">C++</li>
@@ -26,7 +26,6 @@ function Skills() {
           <li className = "skills_subheader_text">Selenium</li>
           <li className = "skills_subheader_text">Jasmine</li>
         </ul>
-      </div>
     </div>
   );
 }
