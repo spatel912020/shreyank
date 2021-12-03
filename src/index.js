@@ -1,14 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import Background from './Background'
-
+import Content from './Content'
 
 ReactDOM.render(
   <React.StrictMode>
     <Background></Background>
-    <App />
+    <Content></Content>
   </React.StrictMode>,
   document.getElementById('root')
 );
