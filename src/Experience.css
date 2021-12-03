@@ -9,6 +9,7 @@
   padding: 1px;
   margin-left: 5%;
   margin-bottom: 0%;
+  font-size: 1.3em;
 }
 
 .experience_subheader_text {
@@ -19,6 +20,7 @@
   padding: 1px;
   margin-left: 5%;
   flex-wrap: wrap;
+  font-size: 0.8em;
 }
 
 .experience {
@@ -29,12 +31,14 @@
 
 .experience_title{
   margin: 0%;
+  font-size: .9em;
 }
 
 .experience_subtitle{
   margin: 0%;
   font-weight: lighter;
   flex-wrap: wrap;
+  font-size: .8em;
 
 }
 
