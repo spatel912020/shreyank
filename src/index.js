@@ -2,9 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Background from './Background'
+
 
 ReactDOM.render(
   <React.StrictMode>
+    <Background></Background>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
