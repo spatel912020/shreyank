@@ -1,4 +1,7 @@
 import './Background.css';
+import HomeIcon from '@mui/icons-material/Home';
+import EmailIcon from '@mui/icons-material/Email';
+import PhoneIphoneIcon from '@mui/icons-material/PhoneIphone';
 
 function Background() {
   return (
@@ -8,9 +11,9 @@ function Background() {
       </div>
       <div className = "background_header">
         <h1 className = "background_header_text">Shreyank Patel</h1>
-        <h1 className = "background_subheader_text" ><strong>Address:</strong> 112 Wolf Creek Way, Oak Ridge, TN</h1>
-        <h1 className = "background_subheader_text"><strong>Email:</strong> Shreyank99@hotmail.com</h1>
-        <h1 className = "background_subheader_text"><strong>Phone #:</strong> 845-521-9791</h1>
+        <h1 className = "background_subheader_text"><HomeIcon className="icon"/> 112 Wolf Creek Way, Oak Ridge, TN</h1>
+        <h1 className = "background_subheader_text"><EmailIcon className="icon"/> Shreyank99@hotmail.com</h1>
+        <h1 className = "background_subheader_text"><PhoneIphoneIcon className="icon"/> 845-521-9791</h1>
       </div>
     </div>
 
