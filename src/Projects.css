@@ -1,10 +1,12 @@
-.experience_div {
+.project_div {
+  background-color: rgb(22, 124, 85);
   text-align: left;
   min-width: 300px;
+  width: 100%;
   flex-wrap: wrap;
 }
 
-.experience_header_text {
+.project_header_text {
   font-family: Georgia, 'Times New Roman', Times, serif;
   padding: 1px;
   margin-left: 5%;
@@ -14,7 +16,7 @@
 
 }
 
-.experience_subheader_text {
+.project_subheader_text {
   list-style-type: none;
   text-align: left;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -26,19 +28,19 @@
   font-size: 0.8em;
 }
 
-.experience {
+.project {
   padding: 5px;
   margin-top: 0%;
-  margin-left: 5%;
-  margin-bottom: 3%;
+  margin-left: 1%;
+  margin-bottom: 0%;
 }
 
-.experience_title{
+.project_title{
   margin: 0%;
   font-size: .9em;
 }
 
-.experience_subtitle{
+.project_subtitle{
   margin: 0%;
   font-weight: lighter;
   flex-wrap: wrap;
@@ -46,9 +48,10 @@
 
 }
 
-.experience_item{
+.project_item{
   padding: 5px;
   margin-top: 0%;
+  margin-bottom: 1%;
   margin-left: 5%;
   flex-wrap: wrap;
 }
@@ -59,4 +62,8 @@
 
 .icon {
   vertical-align: bottom;
+}
+
+.link{
+  color: wheat;
 }

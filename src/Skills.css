@@ -4,7 +4,6 @@
   max-width: 250px;
   width: 25%;
   padding-bottom: calc(100px - 3em);
-  display: flex;
   flex-wrap: wrap;
   z-index: 2;
 }
@@ -29,7 +28,7 @@
   list-style-type: none;
   padding: 5px;
   margin-top: 0%;
-  margin-left: 20%;
+  margin-left: 10%;
 }
 
 .flex_grow {

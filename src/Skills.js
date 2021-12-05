@@ -22,6 +22,7 @@ function Skills() {
           <li className = "skills_subheader_text"><ArrowRightIcon className="icon"/>TypeScript</li>
           <li className = "skills_subheader_text"><ArrowRightIcon className="icon"/>Android SDK</li>
           <li className = "skills_subheader_text"><ArrowRightIcon className="icon"/>Unity</li>
+          <li className = "skills_subheader_text"><ArrowRightIcon className="icon"/>Scikit-learn</li>
           <li className = "skills_subheader_text"><ArrowRightIcon className="icon"/>R</li>
           <li className = "skills_subheader_text"><ArrowRightIcon className="icon"/>AutoCAD</li>
           <li className = "skills_subheader_text"><ArrowRightIcon className="icon"/>Selenium</li>

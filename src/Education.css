@@ -1,20 +1,19 @@
-.experience_div {
+.education_div {
   text-align: left;
   min-width: 300px;
   flex-wrap: wrap;
 }
 
-.experience_header_text {
+.education_header_text {
   font-family: Georgia, 'Times New Roman', Times, serif;
   padding: 1px;
   margin-left: 5%;
   margin-bottom: 0%;
-  font-size: 1.3em;
   margin-top: 2%;
-
+  font-size: 1.3em;
 }
 
-.experience_subheader_text {
+.education_subheader_text {
   list-style-type: none;
   text-align: left;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -26,27 +25,28 @@
   font-size: 0.8em;
 }
 
-.experience {
+.education {
   padding: 5px;
   margin-top: 0%;
   margin-left: 5%;
-  margin-bottom: 3%;
+  margin-bottom: 0%;
 }
 
-.experience_title{
+.education_title{
   margin: 0%;
   font-size: .9em;
 }
 
-.experience_subtitle{
+.education_subtitle{
   margin: 0%;
+  margin-left: 5%;
   font-weight: lighter;
   flex-wrap: wrap;
   font-size: .8em;
 
 }
 
-.experience_item{
+.education_item{
   padding: 5px;
   margin-top: 0%;
   margin-left: 5%;
@@ -55,6 +55,7 @@
 
 .flex_grow{
   display: flex;
+  flex-basis: 100%;
 }
 
 .icon {
