@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/shreyank/static/css/main.578f091e.chunk.css",
-    "main.js": "/shreyank/static/js/main.2f8d16ca.chunk.js",
-    "main.js.map": "/shreyank/static/js/main.2f8d16ca.chunk.js.map",
-    "runtime-main.js": "/shreyank/static/js/runtime-main.19cdf412.js",
-    "runtime-main.js.map": "/shreyank/static/js/runtime-main.19cdf412.js.map",
-    "static/js/2.bb81c434.chunk.js": "/shreyank/static/js/2.bb81c434.chunk.js",
-    "static/js/2.bb81c434.chunk.js.map": "/shreyank/static/js/2.bb81c434.chunk.js.map",
+    "main.css": "/shreyank/static/css/main.067b542e.css",
+    "main.js": "/shreyank/static/js/main.319d0d17.js",
     "index.html": "/shreyank/index.html",
-    "static/css/main.578f091e.chunk.css.map": "/shreyank/static/css/main.578f091e.chunk.css.map",
-    "static/js/2.bb81c434.chunk.js.LICENSE.txt": "/shreyank/static/js/2.bb81c434.chunk.js.LICENSE.txt"
+    "main.067b542e.css.map": "/shreyank/static/css/main.067b542e.css.map",
+    "main.319d0d17.js.map": "/shreyank/static/js/main.319d0d17.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.19cdf412.js",
-    "static/js/2.bb81c434.chunk.js",
-    "static/css/main.578f091e.chunk.css",
-    "static/js/main.2f8d16ca.chunk.js"
+    "static/css/main.067b542e.css",
+    "static/js/main.319d0d17.js"
   ]
 }
