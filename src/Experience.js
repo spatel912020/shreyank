@@ -14,7 +14,7 @@ function Experience() {
           <h5 className = "experience_title"><CorporateFareOutlinedIcon className="icon"/>Web Developer</h5>
           <h6 className = "experience_subtitle">Goldman Sachs, Dallas, TX</h6>
           <h6 className = "experience_subtitle">Sep 2022 - Present</h6>
-          <li className = "experience_subheader_text"><WorkOutlineIcon className="icon"/> </li>
+          <li className = "experience_subheader_text"><WorkOutlineIcon className="icon"/></li>
           <li className = "experience_subheader_text"><WorkOutlineIcon className="icon"/></li>
           <li className = "experience_subheader_text"><WorkOutlineIcon className="icon"/></li>
         </ul>
