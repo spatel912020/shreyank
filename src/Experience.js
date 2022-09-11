@@ -2,7 +2,6 @@ import './Experience.css';
 import WorkOutlineIcon from '@mui/icons-material/WorkOutline';
 import CorporateFareOutlinedIcon from '@mui/icons-material/CorporateFareOutlined';
 import Education from './Education'
-import Project from './Projects'
 
 function Experience() {
   return (
@@ -12,9 +11,25 @@ function Experience() {
       <div className="flex_grow"></div>
       <ul className = "experience">
         <ul className = "experience_item">
+          <h5 className = "experience_title"><CorporateFareOutlinedIcon className="icon"/>Web Developer</h5>
+          <h6 className = "experience_subtitle">Goldman Sachs, Dallas, TX</h6>
+          <h6 className = "experience_subtitle">Sep 2022 - Present</h6>
+          <li className = "experience_subheader_text"><WorkOutlineIcon className="icon"/></li>
+          <li className = "experience_subheader_text"><WorkOutlineIcon className="icon"/></li>
+          <li className = "experience_subheader_text"><WorkOutlineIcon className="icon"/></li>
+        </ul>
+        <ul className = "experience_item">
+          <h5 className = "experience_title"><CorporateFareOutlinedIcon className="icon"/>Student Software Developer/Technical Lead</h5>
+          <h6 className = "experience_subtitle">Trimble Inc, Knoxville, TN</h6>
+          <h6 className = "experience_subtitle">Aug 2021 - Apr 2022</h6>
+          <li className = "experience_subheader_text"><WorkOutlineIcon className="icon"/>Lead a team of student software developers in making a responsive web application</li>
+          <li className = "experience_subheader_text"><WorkOutlineIcon className="icon"/>Create new UI components for existing web application to increase usability on a tablet</li>
+          <li className = "experience_subheader_text"><WorkOutlineIcon className="icon"/>Resolve bugs and communicate with business team to create a business plan for new responsive web application</li>
+        </ul>
+        <ul className = "experience_item">
           <h5 className = "experience_title"><CorporateFareOutlinedIcon className="icon"/> President</h5>
           <h6 className = "experience_subtitle">SP Technologies LLC, Oak Ridge, TN</h6>
-          <h6 className = "experience_subtitle">Mar 2021 - Present</h6>
+          <h6 className = "experience_subtitle">Mar 2021 - Sep 2022</h6>
           <li className = "experience_subheader_text"><WorkOutlineIcon className="icon"/> Help small businesses create fully functional web application using MERN stack</li>
           <li className = "experience_subheader_text"><WorkOutlineIcon className="icon"/> Design, build, and maintain web sites</li>
           <li className = "experience_subheader_text"><WorkOutlineIcon className="icon"/> Perform search engine optimization on small business websites</li>

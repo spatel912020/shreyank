@@ -7,7 +7,7 @@ function Background() {
   return (
     <div className="background">
       <div className = "background_header">
-        <img alt= "personal_pic" className = "background_img" src="https://media-exp1.licdn.com/dms/image/C4E03AQGeFDVJ21lR0A/profile-displayphoto-shrink_200_200/0/1638477954334?e=1643846400&v=beta&t=31mS3ChVfXFK1LHFiven5_P9OK-Cibd_O8hUWIbqj1k"/>
+        <img alt= "personal_pic" className = "background_img" src="https://personal-bucket-spatel.s3.amazonaws.com/1638477954334.jfif"/>
       </div>
       <div className = "background_header">
         <h1 className = "background_header_text">Shreyank Patel</h1>
